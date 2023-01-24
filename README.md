@@ -1,5 +1,7 @@
 # Search feature in react
 
+____
+
 Search feature is one of the most important utility in every application
 it enables any user to find data or files that they are looking for by
 just typing letters or string with the same format to that certain files or data.
